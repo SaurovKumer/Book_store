@@ -1,8 +1,0 @@
-# Book_store
-DB_USER=sAdmin
-
-DB_PASSWORD=0000
-
-DB_CONNECT_STRING=localhost/XE
-
-PORT=8000
